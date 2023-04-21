@@ -6,7 +6,7 @@ Fullstack Web Developer and Designer
 
 Been a while since I have been learning to code, started with HTML, but fell in love with backend web development, while also learning how to use frontend frameworks like react.
 
-* 🌍  I'm based in Shimla
+* 🌍  I'm based in Shimla, HP, India.
 * ✉️  You can contact me at [aatreya21@gmail.com](mailto:aatreya21@gmail.com)
 * 🧠  I'm learning NextJS, and Django.
 * 🤝  I'm open to collaborating on any projects that are interesting.
