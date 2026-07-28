@@ -1,7 +1,7 @@
 Hi 👋 My name is Aatreya Kapoor
 ===============================
 
-Fullstack Web Developer and Designer
+Embedded Engineer, Backend/Frontend Web Developer and someone who enjoys building random things
 ------------------------------------
 
 Been a while since I have been learning to code, started with HTML, but fell in love with backend web development, while also learning how to use frontend frameworks like react.
