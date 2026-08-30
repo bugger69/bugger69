@@ -4,7 +4,7 @@ Hi 👋 My name is Aatreya Kapoor
 Embedded Engineer, Backend/Frontend Web Developer and someone who enjoys building random things
 ------------------------------------
 
-Been a while since I have been learning to code, started with HTML, but fell in love with backend web development, while also learning how to use frontend frameworks like react.
+Been a while since I have been learning to code, started with HTML, but fell in love with backend web development, and web development in general. Next thing I know, I'm working at a company for Embedded Engineering, where I learned to do lot's of cool stuff with C and hardware, while also learning loads about Wifi Technology. I'm keen to use my skillsets and learn new things as I go.
 
 * 🌍  I'm based in Shimla, HP, India, though I currently live in Noida, UP.
 * ✉️  You can contact me at [aatreya21@gmail.com](mailto:aatreya21@gmail.com)
