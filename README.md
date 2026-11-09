@@ -4,7 +4,7 @@ Hi 👋 My name is Aatreya Kapoor
 Senior Software Engineer(Embedded/WLAN), and someone who likes to tinker around in all sorts of fields
 ------------------------------------
 
-Been a while since I have been learning to code, started with HTML, but fell in love with backend web development, and web development in general. Next thing I know, I'm working at a company for Embedded Engineering, where I learned to do lot's of cool stuff with C and hardware, while also learning loads about Wifi Technology. I'm keen to use my skillsets and learn new things as I go.
+Been a while since I have been learning to code, started with HTML, but fell in love with backend web development, and web development in general. Next thing I know, I'm working at MediaTek as a Senior Software(Embedded) Engineer, where I learn everyday lot's of cool stuff with C and hardware, while also learning loads about Wifi Technology. I'm keen to use my skillsets and learn new things as I go.
 
 * 🌍  I'm based in Shimla, HP, India, though I currently live in Noida, UP.
 * ✉️  You can contact me at [aatreya21@gmail.com](mailto:aatreya21@gmail.com)
