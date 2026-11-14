@@ -1,7 +1,7 @@
 Hi 👋 My name is Aatreya Kapoor
 ===============================
 
-Senior Software Engineer(Embedded/WLAN), and someone who likes to tinker around in all sorts of fields
+Senior Software Engineer(Embedded/WLAN), and someone who loves to explore the diverse technologies Software Engineering has to offer, just to build stuff :D
 ------------------------------------
 
 Been a while since I started to code, started with HTML, and later got good with backend development, and web development in general. Next thing I know, I'm working at MediaTek as a Senior Software(Embedded) Engineer, where I learn everyday lot's of cool stuff about C and driver/firmware level programming, while also learning loads about the Network Stack and Wifi Technology. I'm keen to use my skillsets and learn new things as I go.
