@@ -10,7 +10,7 @@ Been a while since I started to code, started with HTML, and progressively gaine
 * ✉️  You can contact me at [aatreya21@gmail.com](mailto:aatreya21@gmail.com)
 * 🧠  I'll be building a new project every week, as a challenge.
 * 💡  This week I'll work on implementing a file compressor.
-* 🤝  I'm open to collaborating on any projects that are interesting.
+* 🤝  I'm open to collaborating on any projects that are interesting and (maybe)challenging.
 * ⚡  I also love reading horror and thriller novels, so feel free to chat up about some great titles ;)
 
 ### Skills
