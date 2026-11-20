@@ -8,7 +8,7 @@ Been a while since I started to code, started with HTML, and progressively gaine
 
 * 🌍  I'm based in Shimla, HP, India, though I currently live in Noida, UP.
 * ✉️  You can contact me at [aatreya21@gmail.com](mailto:aatreya21@gmail.com)
-* 🧠  I'll be building a new project every week, as a challenge.
+* 🧠  I'll be building a new project every week, to learn new things.
 * 💡  This week I'll work on implementing a sort tool.
 * 🤝  I'm open to collaborating on any projects that are interesting and (maybe)challenging.
 * ⚡  I also love reading horror and thriller novels, so feel free to chat up about some great titles ;)
